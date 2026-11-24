@@ -7,9 +7,10 @@
 # INFORME TÉCNICO OBLIGATORIO: USO DE INTELIGENCIA ARTIFICIAL GENERATIVA (IAG) Y GUÍA DE DEFENSA EN COLOQUIO
 **Trabajo Final Integrador — Concesionaria Multimarcas en Java**
 
-- **Alumno/a:** ________________________________________
-- **Legajo N°:** ____________________
-- **Comisión:** [ ] Comisión 2 &nbsp;&nbsp;&nbsp;&nbsp; [ ] Comisión 3
+Integrantes del Grupo: 
+                    Miño Foschiatti Alex Jesús.  Legajo: 31179
+                    Ortiz Silvina Ailín.         Legajo: 31144
+- **Comisión 2
 - **IAG Seleccionada:** Google Gemini (Gemini 2.5 Pro / Flash)
 
 ---
