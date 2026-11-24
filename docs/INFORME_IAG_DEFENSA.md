@@ -1,6 +1,6 @@
 # UNIVERSIDAD TECNOLÓGICA NACIONAL
 ## Facultad Regional Resistencia — Tecnicatura Universitaria en Programación
-### Cátedra: Programación II — Año 2026 — Comisiones 2 y 3
+### Cátedra: Programación II — Comisiones 2 - Año: 2026
 
 ---
 
