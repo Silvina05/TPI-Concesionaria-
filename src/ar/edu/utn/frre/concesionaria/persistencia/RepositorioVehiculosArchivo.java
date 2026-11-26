@@ -167,7 +167,7 @@ public class RepositorioVehiculosArchivo implements IRepositorio<Vehiculo> {
         try {
             in = new ObjectInputStream(new FileInputStream(f));
             // Recupera la lista mediante readObject (java 7, página 19)
-            lista = (List<Vehiculo>) in.readObject();
+            lista = (List<Vehiculo>) in.readObject();// en Java no podés asignar directamente un Object a una variable List<Vehiculo> sin hacer un casting explícito
         } catch (IOException e) {
             throw new PersistenciaException("Error de lectura en archivo de persistencia: " + e.getMessage(), e);
         } catch (ClassNotFoundException e) {
